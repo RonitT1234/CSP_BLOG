@@ -10,9 +10,6 @@ This is my [Github account](https://github.com/RonitT1234) !!
 
 ---
 
-<a href="https://www.w3schools.com/html/default.asp">Visit W3Schools HTML Page</a>
-
-
 ## >>>> Who am I? <<<<
 I am Ronit Thomas, a sophomore at Del Norte High School. 
 - Currently I am learning about Computer Science.
